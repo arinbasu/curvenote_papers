@@ -1,0 +1,17 @@
+version: 1
+project:
+  title: Julia Data Science
+  description: Julia for data science
+  remote: jqh3KyjS8kHym9y9v8fk
+  short_title: julia data science
+  authors:
+    - userId: Zj3hDdGqAzVb4r5HY1NCCQeJ0hk2
+      name: Arindam Basu
+      orcid: 0000-0003-2326-2292
+      corresponding: false
+      roles: []
+      affiliations: []
+  keywords: []
+  name: julia-data-science
+  open_access: true
+  license: {}
